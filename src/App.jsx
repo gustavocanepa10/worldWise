@@ -32,7 +32,7 @@ function App() {
       <Route  path="*" element = {<NotFound/>}   />
 
       <Route  path="/app" element = {<AppLayout/>}  />
-      <Route path="login" element = {<Login/>} />
+      <Route path="/login" element = {<Login/>} />
 
 
       
